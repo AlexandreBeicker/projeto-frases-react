@@ -19,7 +19,7 @@ function App() {
 
       <button className='button-phrase'>Gerar frase</button>
 
-      <h3 className='text-phrase'>Aqui é a frase</h3>
+      <p className='text-phrase'>Aqui é a frase</p>
 
     </div>
   )
